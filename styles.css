@@ -474,12 +474,12 @@ html, body {
 
 
 @media (max-width: 768px) {
-  #toolbar {
+  /* #toolbar {
     left: auto;
     right: 16px;
     transform: none;
     padding: 0.6rem 1.3rem;
-  }
+  } */
 
   .custom-select-trigger {
     font-size: 0.85rem;
