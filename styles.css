@@ -471,3 +471,42 @@ html, body {
   text-align: center;
 }
 .popup-directions-btn:hover  { font-weight: 600; }
+
+
+@media (max-width: 768px) {
+  #toolbar {
+    left: auto;
+    right: 16px;
+    transform: none;
+    padding: 0.6rem 1.3rem;
+  }
+
+  .custom-select-trigger {
+    font-size: 0.85rem;
+    gap: 10px;
+  }
+
+  .custom-select-list {
+    font-size: 0.85rem;
+    min-width: 140px;
+    padding: 2px 0;
+  }
+
+  #cat-pills-panel {
+    left: auto;
+    right: 16px;
+    transform: none;
+    align-items: flex-end;
+  }
+
+  #cat-pills {
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 8px;
+  }
+
+  #explore-prompt {
+    display: none;
+    text-align: right;
+  }
+}
