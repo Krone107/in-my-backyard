@@ -534,38 +534,38 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>AMK 347 Food house</name>
-        <description><![CDATA[Address: 347 Ang Mo Kio Ave 3, #01-2150, Singapore 560347<br>Coordinates: 1.3676579371088748, 103.84853256428636]]></description>
+        <name>AMK 347 Food House</name>
+        <description><![CDATA[Address: 347 Ang Mo Kio Ave 3, #01-2150, Singapore 560347<br>Coordinates: 1.3676579, 103.8485326]]></description>
         <styleUrl>#icon-1739-C2185B</styleUrl>
         <ExtendedData>
           <Data name="Address">
             <value>347 Ang Mo Kio Ave 3, #01-2150, Singapore 560347</value>
           </Data>
           <Data name="Coordinates">
-            <value>1.3676579371088748, 103.84853256428636</value>
+            <value>1.3676579, 103.8485326</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            103.848532564286,1.36765793710887,0
+            103.8485326,1.3676579,0
           </coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Johnson9 eatery Pte Ltd</name>
-        <description><![CDATA[Address: 332 Ang Mo Kio Ave 1, Singapore 560332<br>Coordinates: 1.362108984671098, 103.8516360152941]]></description>
+        <name>Johnson9 Eatery Pte Ltd</name>
+        <description><![CDATA[Address: 332 Ang Mo Kio Ave 1, Singapore 560332<br>Coordinates: 1.362109, 103.851636]]></description>
         <styleUrl>#icon-1739-C2185B</styleUrl>
         <ExtendedData>
           <Data name="Address">
             <value>332 Ang Mo Kio Ave 1, Singapore 560332</value>
           </Data>
           <Data name="Coordinates">
-            <value>1.362108984671098, 103.8516360152941</value>
+            <value>1.362109, 103.851636</value>
           </Data>
         </ExtendedData>
         <Point>
           <coordinates>
-            103.851636015294,1.3621089846711,0
+            103.851636,1.362109,0
           </coordinates>
         </Point>
       </Placemark>
@@ -2414,24 +2414,6 @@
         <Point>
           <coordinates>
             103.845545845975,1.37491888400693,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Kebun Baru Birdsinging Club</name>
-        <description><![CDATA[Address: 159 Ang Mo Kio Ave 5, Singapore 560159<br>Coordinates: 1.3739712702518263, 103.84015662433816]]></description>
-        <styleUrl>#icon-1739-0288D1</styleUrl>
-        <ExtendedData>
-          <Data name="Address">
-            <value>159 Ang Mo Kio Ave 5, Singapore 560159</value>
-          </Data>
-          <Data name="Coordinates">
-            <value>1.3739712702518263, 103.84015662433816</value>
-          </Data>
-        </ExtendedData>
-        <Point>
-          <coordinates>
-            103.840156624338,1.37397127025183,0
           </coordinates>
         </Point>
       </Placemark>
